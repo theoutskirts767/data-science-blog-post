@@ -17,7 +17,7 @@ By analyzing the Titanic dataset, we'll reveal key characteristics of the passen
 
 
 ## File Descriptions
-- `your_dataset.csv`: The dataset used for analysis.
+- `project_1.csv`: The dataset used for analysis.
 - `data_analysis.ipynb`: Jupyter Notebook containing the data analysis code.
 - https://www.kaggle.com/datasets/hillarymyers/project-1
 
