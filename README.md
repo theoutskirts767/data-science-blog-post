@@ -14,6 +14,8 @@ This project aims to analyze the Titanic dataset to uncover insights about who t
 - **scikit-learn**: For machine learning algorithms.
 - **matplotlib**: For data visualization.
 - **seaborn**: For enhanced visualizations.
+- data = pd.read_csv('project_1.csv')
+
 
 ## File Descriptions
 - `your_dataset.csv`: The dataset used for analysis.
