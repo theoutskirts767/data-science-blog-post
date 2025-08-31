@@ -13,7 +13,7 @@ By analyzing the Titanic dataset, we'll reveal key characteristics of the passen
 - **scikit-learn**: For machine learning algorithms.
 - **matplotlib**: For data visualization.
 - **seaborn**: For enhanced visualizations.
-- data = pd.read_csv('project_1.csv')
+  
 
 
 ## File Descriptions
