@@ -6,8 +6,7 @@ The grand voyage of the RMS Titanic began from Southampton, England on April 10 
 # Data Science Blog Post on Titanic Dataset
 
 ## Motivation
-This project aims to analyze the Titanic dataset to uncover insights about who the passengers were. The findings will be communicated through a blog post to make the results accessible to a broader audience.
-
+By analyzing the Titanic dataset, we'll reveal key characteristics of the passengers. My findings will be published on a blog to reach a wide audience.
 ## Libraries Used
 - **pandas**: For data manipulation and analysis.
 - **numpy**: For numerical operations.
