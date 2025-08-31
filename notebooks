@@ -11,7 +11,7 @@ This project aims to analyze the XYZ dataset to uncover insights about [insert t
 - **seaborn**: For enhanced visualizations.
 
 ## File Descriptions
-- `your_dataset.csv`: The dataset used for analysis.
+- `project_1.csv`: The dataset used for analysis.
 - `data_analysis.ipynb`: Jupyter Notebook containing the data analysis code.
 
 ## Summary of Results
