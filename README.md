@@ -18,6 +18,7 @@ This project aims to analyze the Titanic dataset to uncover insights about who t
 ## File Descriptions
 - `your_dataset.csv`: The dataset used for analysis.
 - `data_analysis.ipynb`: Jupyter Notebook containing the data analysis code.
+- https://www.kaggle.com/datasets/hillarymyers/project-1
 
 ## Summary of Results
 The analysis revealed that more men died than women. The model achieved an accuracy of the data is about 70% accurate and provided valuable insights into the people aboard the ship.
