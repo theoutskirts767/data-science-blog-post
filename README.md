@@ -22,52 +22,5 @@ This project aims to analyze the Titanic dataset to uncover insights about who t
 ## Summary of Results
 The analysis revealed that more men died than women. The model achieved an accuracy of the data is about 70% accurate and provided valuable insights into the people aboard the ship.
 
-# Import necessary libraries
-import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt
-import seaborn as sns
-from sklearn.model_selection import train_test_split
-from sklearn.linear_model import LinearRegression
-from sklearn.metrics import mean_squared_error
-
-# Load the dataset
-data = pd.read_csv('data/your_dataset.csv')
-
-# Explore the data
-print(data.head())
-print(data.info())
-print(data.describe())
-
-# Visualize the data
-sns.scatterplot(data=data, x='feature1', y='target')
-plt.title('Feature 1 vs Target')
-plt.show()
-
-# Clean the data (if necessary)
-data.dropna(inplace=True)  # Example: drop missing values
-
-# Split the data into features and target
-X = data[['feature1', 'feature2']]  # Replace with your actual features
-y = data['target']  # Replace with your actual target variable
-
-# Split the dataset into training and testing sets
-X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
-
-# Train the model
-model = LinearRegression()
-model.fit(X_train, y_train)
-
-# Make predictions
-predictions = model.predict(X_test)
-
-# Evaluate the model
-mse = mean_squared_error(y_test, predictions)
-print(f'Mean Squared Error: {mse}')
-
-# Scenario Prediction
-new_data = [[value1, value2]]  # Replace with new input values
-prediction = model.predict(new_data)
-print(f'Prediction for new data: {prediction}')
 
 
