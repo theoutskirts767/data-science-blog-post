@@ -12,7 +12,7 @@ This project aims to analyze the XYZ dataset to uncover insights about [insert t
 
 ## File Descriptions
 - `project_1.csv`: The dataset used for analysis.
-- `data_analysis.ipynb`: Jupyter Notebook containing the data analysis code.
+- `notebook.ipynb`: Jupyter Notebook containing the data analysis code.
 
 ## Summary of Results
 The analysis revealed that [insert key findings]. The model achieved an accuracy of [insert accuracy] and provided valuable insights into [insert insights].
