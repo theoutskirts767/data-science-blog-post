@@ -6,7 +6,7 @@ The grand voyage of the RMS Titanic began from Southampton, England on April 10 
 # Data Science Blog Post on Titanic Dataset
 
 ## Motivation
-By analyzing the Titanic dataset, we'll reveal key characteristics of the passengers. My findings will be published on a blog to reach a wide audience.
+By analyzing the Titanic dataset, we'll reveal the percentages of the passengers who did not survive. My findings will be published on a blog to reach a wide audience.
 ## Libraries Used
 - **pandas**: For data manipulation and analysis.
 - **numpy**: For numerical operations.
@@ -21,7 +21,7 @@ By analyzing the Titanic dataset, we'll reveal key characteristics of the passen
 - `project_1`: Jupyter Notebook containing the data analysis code.
 - Below is the link to the dataset and Blog Post:
 - https://medium.com/@hillarymyers202
-- 
+
 
 
 ## Summary of Results
