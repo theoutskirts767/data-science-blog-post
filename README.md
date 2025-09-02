@@ -20,8 +20,9 @@ By analyzing the Titanic dataset, we'll reveal key characteristics of the passen
 - `project_1.csv`: The dataset used for analysis.
 - `project_1`: Jupyter Notebook containing the data analysis code.
 - Below is the link to the dataset and Blog Post:
-- https://medium.com/@hillarymyers202/the-enduring-stories-of-the-titanic-survivors-d099dd8acd6a
-- https://www.kaggle.com/datasets/hillarymyers/project-1
+- https://medium.com/@hillarymyers202
+- 
+
 
 ## Summary of Results
 The analysis revealed that more men died than women. The model achieved an accuracy of the data is about 70% accurate and provided valuable insights into the people aboard the ship.
