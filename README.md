@@ -17,9 +17,8 @@ By analyzing the Titanic dataset, we'll reveal the percentages of the passengers
 
 
 ## File Descriptions
-- `project_1.csv`: The dataset used for analysis.
 - `project_1`: Jupyter Notebook containing the data analysis code.
-- Below is the link to the dataset used and Blog Post:
+- Below is the link to the dataset used for analysis and Blog Post:
 - https://medium.com/@hillarymyers202
 - https://www.kaggle.com/datasets/hillarymyers/project-1/data
 
