@@ -7,7 +7,7 @@ What were the financial consequences of the sinking?
 
 Can data science help us understand the social dynamics aboard the Titanic?
 
-By examining these questions, we uncover not just historical facts, but insights into human behavior and decision-making under crisis.
+By examining these questions, I uncover not just historical facts but insights into human behavior and decision-making under crisis.
 
 📊 Data Understanding
 The dataset used in this project is manually aggregated and includes:
