@@ -1,4 +1,5 @@
-Project Overview
+Project Overview.
+
 This repository walks through how we transformed a century-old tragedy into modern insights for insurers, cruise operators, and regulators. You’ll find the data, a Jupyter notebook with all the code and visualizations, and the blog post that tells the full story.
 
 This analysis answers five stakeholder questions:
