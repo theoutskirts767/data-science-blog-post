@@ -21,22 +21,22 @@ https://www.kaggle.com/datasets/hillarymyers/project-1
 * Link to Titanic blog post.
 https://medium.com/@hillarymyers202
 
-The following libraries were used in my project.
+<h3>The following libraries were used in my project.</h3>
 
-Libraries used: 
+<h4>Libraries used:</h4>
 The libraries you used in your project include:
 
-os
+* os
 
-pandas (pd)
+* pandas (pd)
 
-numpy (np)
+* numpy (np)
 
-matplotlib.pyplot (plt)
+* matplotlib.pyplot (plt)
 
-seaborn (sns)
+* seaborn (sns)
 
-Dataset credit:
+<h4>Dataset credit:</h4>
 
 Kaggle.com
 Name Brenda N (Owner)
