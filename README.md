@@ -2,19 +2,19 @@
 
 This repository walks through how we transformed a century-old tragedy into modern insights for insurers, cruise operators, and regulators. You’ll find the data, a Jupyter notebook with all the code and visualizations, and the blog post that tells the full story.
 
-This analysis answers five stakeholder questions:
+<h2>This analysis answers five stakeholder questions:</h2>
 
-Does ticket class predict survival?
+* Does ticket class predict survival?
 
-Is traveling with family an advantage?
+* Is traveling with family an advantage?
 
-How much did age matter?
+* How much did age matter?
 
-Did embarkation port sway odds?
+* Did embarkation port sway odds?
 
-Are high fares tied to higher survival?
+* Are high fares tied to higher survival?
 
-The notebook generates bar charts, pivot tables, and everything needed to back up each percentage and conclusion.
+<h3>The notebook generates bar charts, pivot tables, and everything needed to back up each percentage and conclusion.</h3>
 
 * Link to the dataset I based my findings on.
 https://www.kaggle.com/datasets/hillarymyers/project-1
