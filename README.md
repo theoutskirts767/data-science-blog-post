@@ -20,3 +20,24 @@ The notebook generates bar charts, pivot tables, and everything needed to back u
 https://www.kaggle.com/datasets/hillarymyers/project-1
 * Link to Titanic blog post.
 https://medium.com/@hillarymyers202
+
+The following libraries were used in my project.
+
+Libraries used: 
+The libraries you used in your project include:
+
+os
+
+pandas (pd)
+
+numpy (np)
+
+matplotlib.pyplot (plt)
+
+seaborn (sns)
+
+Dataset credit:
+
+Kaggle.com
+Name Brenda N (Owner)
+Public Domain
